@@ -53,3 +53,7 @@ source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 sudo apt install neofetch
 #add the neofetch in the .zshrc file
 echo 'neofetch' >> ~/.zshrc
+#h-top
+sudo apt install htop
+#add the htop in the .zshrc file
+echo 'htop' >> ~/.zshrc
